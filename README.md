@@ -9,7 +9,8 @@ npm install rename-random
 ```
 ## Usage
 ```{bash}
-random-rename ./example.json // => Renamed example.json to fhg9h4zOMYkRRXXp.json
+$ rename-random ./example.json
+$ Renamed example.json to fhg9h4zOMYkRRXXp.json
 ```
 
 ## License

@@ -1,9 +1,11 @@
 {
     "name": "rename-random",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Simple rename using random string",
     "main": "./lib/index.js",
-    "bin": "./bin/cli.js",
+    "bin": {
+        "rename-random": "./bin/cli.js"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

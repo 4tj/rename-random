@@ -1,0 +1,31 @@
+{
+    "name": "rename-random",
+    "version": "1.0.0",
+    "description": "Simple rename using random string",
+    "main": "./lib/index.js",
+    "bin": {
+      "rrrr": "./bin/cli.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "random-string": "^0.1.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/qinshou/rename-random.git"
+    },
+    "keywords": [
+        "rename",
+        "random",
+        "file",
+        "name"
+    ],
+    "author": "Kevin Zhao",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/qinshou/rename-random/issues"
+    },
+    "homepage": "https://github.com/qinshou/rename-random#readme"
+}

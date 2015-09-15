@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "description": "Simple rename using random string",
     "main": "./lib/index.js",
-    "bin": {
-      "rrrr": "./bin/cli.js"
-    },
+    "bin": "./bin/cli.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

@@ -2,13 +2,15 @@ rename-random
 ================================
 Simple rename using random string
 
-## Install
+## Installation
 
 ```{bash}
 npm install rename-random
 ```
-## Author
-Kevin Zhao, http://qinshou.me
+## Usage
+```{bash}
+random-rename ./example.json // => Renamed example.json to fhg9h4zOMYkRRXXp.json
+```
 
 ## License
-MIT
+The MIT License (MIT).

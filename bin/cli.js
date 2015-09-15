@@ -15,5 +15,5 @@ fs.rename(filePath, path.join(path.dirname(filePath), outputName), function (err
     if (err) {
         throw err;
     }
-    console.log('Renamed complete ' + fileName + ' ==> ' + outputName);
+    console.log('Renamed ' + fileName + ' to ' + outputName);
 });

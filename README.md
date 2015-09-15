@@ -1,12 +1,11 @@
-random-rename
+rename-random
 ================================
-
-Rename file by random
+Simple rename using random string
 
 ## Install
 
 ```{bash}
-npm install random-rename
+npm install rename-random
 ```
 ## Author
 Kevin Zhao, http://qinshou.me
